@@ -7,6 +7,10 @@ nav{
 }
 
 #favorite{
-    padding: 10px;
+    padding: 0px 10px;
     flex-basis: auto;
 }
+
+html {
+    scroll-behavior: smooth;
+  }
